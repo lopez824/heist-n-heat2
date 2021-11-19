@@ -12,6 +12,10 @@
 			"Name": "ArcadeVehicleSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/31c6df7690794c0ca73171095eb8ec2f"
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
